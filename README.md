@@ -1,5 +1,5 @@
 # LEGO_projects
-Some LEGO Technic projects
+Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 
 ## Legopard
 
