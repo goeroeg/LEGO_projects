@@ -24,5 +24,5 @@ All content in this repository is licensed under the terms of [Creative Commons 
 # How to contribute
 If you have any ideas just create a pull request...
 
---
+---
 LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse these models
