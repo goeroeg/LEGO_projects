@@ -5,6 +5,10 @@ Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 
 ![Legopard v1](Legopard/LEGOPard%202%20v1_complete.png)
 
+## Blitz 5
+
+![Blitz 5](Blitz/Blitz_5.png)
+
 ## Crane
 
 ![Crane](Crane/Crane_v1.png)
@@ -16,6 +20,26 @@ Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 ## Truck with trailer
 
 ![Truck with trailer](Truck_trailer/Truck_trailer.png)
+
+## Misc
+
+Some other smaller projects...
+
+### Robot
+
+![Robot](Misc/robot.png)
+
+### Drone
+
+![Drone](Misc/drone.png)
+
+### Simple chess
+
+![Chess](Misc/chess.png)
+
+### Scale
+
+![Scale](Misc/scale.png)
 
 ---
 
