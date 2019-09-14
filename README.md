@@ -25,10 +25,6 @@ Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 
 Some other smaller projects...
 
-### Robot
-
-![Robot](Misc/robot.png)
-
 ### Drone
 
 ![Drone](Misc/drone.png)
