@@ -5,6 +5,13 @@ Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 
 ![Legopard v1](Legopard/LEGOPard%202%20v1_complete.png)
 
+## Industrial robot model (inspired by the KUKA Quantec series)
+
+- [Building instructions](/Robot/robot_instr.md) (made with [LPub3D](https://trevorsandy.github.io/lpub3d/))
+- [Public wishlist on BrickOwl](https://www.brickowl.com/wishlist/view/goeroeg/robot)
+
+![Robot](Robot/robot_instr.png)
+
 ## Blitz 5
 
 ![Blitz 5](Blitz/Blitz_5.png)
