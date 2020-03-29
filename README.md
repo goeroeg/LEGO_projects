@@ -1,4 +1,5 @@
 # LEGO_projects
+
 Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 
 ## Legopard
@@ -24,9 +25,15 @@ Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 
 ![Whirlwind](Whirlwind/Whirlwind.png)
 
+## Tractor with a trailer
+
+![Tractor](Tractor/Tractor.png)
+![Tractor_trailer](Tractor/Tractor_trailer.png)
+
 ## Truck with trailer
 
 ![Truck with trailer](Truck_trailer/Truck_trailer.png)
+
 
 ## Misc
 
@@ -46,11 +53,11 @@ Some other smaller projects...
 
 ---
 
-# License
+## License
 
 All content in this repository is licensed under the terms of [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-# How to contribute
+## How to contribute
 
 If you have any ideas just create an issue or even a pull request...
 
