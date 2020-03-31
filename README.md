@@ -6,12 +6,19 @@ Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 
 ![Legopard v1](Legopard/LEGOPard%202%20v1_complete.png)
 
-## Industrial robot model (inspired by the KUKA Quantec series)
+## Industrial robot model (inspired by the **KUKA Quantec** series)
 
-- [Building instructions](/Robot/robot_instr.md) (made with [LPub3D](https://trevorsandy.github.io/lpub3d/))
+- [Building instructions](/Robot/robot_instr/robot_instr.md) (made with [LPub3D](https://trevorsandy.github.io/lpub3d/))
 - [Public wishlist on BrickOwl](https://www.brickowl.com/wishlist/view/goeroeg/robot)
 
 ![Robot](Robot/robot_instr.png)
+
+## Collaborative 7 axis robot model (inspired by the **KUKA iiwa**)
+
+- [Building instructions](/Robot/iiwa_instr/iiwa_instr.md)
+- [Public wishlist on BrickOwl](https://www.brickowl.com/wishlist/view/goeroeg/iiwa)
+
+![Robot](Robot/iiwa.png)
 
 ## Blitz 5
 
@@ -33,7 +40,6 @@ Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 ## Truck with trailer
 
 ![Truck with trailer](Truck_trailer/Truck_trailer.png)
-
 
 ## Misc
 
