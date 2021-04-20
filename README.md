@@ -13,6 +13,13 @@ Some LEGO® Technic projects made with [LeoCAD](https://www.leocad.org/).
 
 ![Robot](Robot/robot_instr.png)
 
+## Small Industrial robot model (inspired by the **KUKA Agilus** series)
+
+- [Building instructions](/Robot/robot_instr/agilus_instr.md) (made with [LPub3D](https://trevorsandy.github.io/lpub3d/))
+- [Public wishlist on BrickOwl](https://www.brickowl.com/wishlist/view/goeroeg/robot-small)
+
+![Robot](Robot/agilus_instr.png)
+
 ## Collaborative 7 axis robot model (inspired by the **KUKA iiwa**)
 
 - [Building instructions](/Robot/iiwa_instr/iiwa_instr.md)

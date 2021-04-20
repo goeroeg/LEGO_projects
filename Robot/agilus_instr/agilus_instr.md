@@ -1,0 +1,16 @@
+# Small robot model building instructions
+
+![page1](agilus_instr_page_1.png)
+![page2](agilus_instr_page_2.png)
+![page3](agilus_instr_page_3.png)
+![page4](agilus_instr_page_4.png)
+![page5](agilus_instr_page_5.png)
+![page6](agilus_instr_page_6.png)
+![page7](agilus_instr_page_7.png)
+![page8](agilus_instr_page_8.png)
+![page9](agilus_instr_page_9.png)
+![page10](agilus_instr_page_10.png)
+![page11](agilus_instr_page_11.png)
+![page12](agilus_instr_page_12.png)
+![page13](agilus_instr_page_13.png)
+![page14](agilus_instr_page_14.png)

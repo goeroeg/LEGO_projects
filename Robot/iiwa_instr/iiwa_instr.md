@@ -1,3 +1,5 @@
+# Collaborative robot model building instructions
+
 ![page1](iiwa_instr_page_1.png)
 ![page2](iiwa_instr_page_2.png)
 ![page3](iiwa_instr_page_3.png)
